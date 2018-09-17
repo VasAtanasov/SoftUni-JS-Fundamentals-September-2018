@@ -1,9 +1,0 @@
-function solve(array) {
-
-}
-
-solve(
-    [
-
-    ]
-);
