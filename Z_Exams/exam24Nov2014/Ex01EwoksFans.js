@@ -1,0 +1,9 @@
+function solve(array) {
+
+}
+
+solve(
+    [
+
+    ]
+);
